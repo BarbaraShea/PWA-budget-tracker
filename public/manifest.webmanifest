@@ -1,0 +1,20 @@
+{
+    "short_name": "Budget",
+    "name": "PWA Budget Tracker",
+    "icons": [
+      {
+        "src": "/icons/notebook-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/notebook-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#808080",
+    "display": "standalone",
+    "theme_color": "#808080"
+  }
